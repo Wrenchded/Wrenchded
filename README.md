@@ -44,18 +44,22 @@
 
 - 🔄 **KIRAYA** – *Hustle Free Travel*  
   `→ Hassle-Free, Fast, Paperless Ticketing - Kiraya Card System`
-
+  
 - 🚘 **AutoVerse** – *Premium AI Car Showroom (Streamlit)*  
   `→ Reinventing the Way You Discover Supercars`
 
 - 📄 **PDF Mind** – *Local Chat with PDF using Ollama + NLP*  
   `→ Private, Fast & Fully Offline PDF Summarizer`
 
-- 📄 **Audiofy** – YouTube to MP3 Downloader (Streamlit and flask based)*  
-  `→ A clean, simple, and powerful web app to download high-quality MP3 audio from YouTube videos using yt-dlp. Built with ❤️ using Flask and Python.`
-
 - 📄 **TOYOTA** – *Car Dealership Management System ( Java Netbeans Based )*  
   `→ My first project built in 12th std using Java and Mysql for database connectivity`
+
+- **ResumeRank AI** - *Get an Instant Ai-Powered audit to ensure your resume outranks the competition*
+  ` My First AI Product`
+
+
+
+
 
 ---
 
