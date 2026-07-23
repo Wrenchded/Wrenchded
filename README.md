@@ -126,10 +126,6 @@ Production-ready marketplace combining Machine Learning, recommendation systems,
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Status**
-
-🟢 Active Development
-
 **Repository**
 
 [📂 View Repository](YOUR_AUTOVERSE_REPO_LINK)
