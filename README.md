@@ -117,7 +117,6 @@ Production-ready marketplace combining Machine Learning, recommendation systems,
 - Recommendation Engine
 - Vehicle Damage Detection
 - JWT Authentication
-- Analytics Dashboard
 
 **Built With**
 
