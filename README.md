@@ -111,107 +111,63 @@ production-grade APIs, and intelligent automation systems.
 ☕ Coffee-powered problem solver
 
 <!-- ========================================================= -->
-<!--                🚗 AUTOVERSE - FLAGSHIP PROJECT             -->
+<!--                    SELECTED WORK                           -->
 <!-- ========================================================= -->
 
+# Selected Work
+
+A collection of AI products, backend systems, and software solutions I've designed and built to solve real-world problems.
+
 <br>
-
-<h1 align="center">
-🚗 AutoVerse
-</h1>
-
-<h3 align="center">
-AI-Powered Automotive Marketplace
-</h3>
-
-<p align="center">
-Building the future of digital vehicle buying through Artificial Intelligence,
-Machine Learning and scalable backend engineering.
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FLAGSHIP-PROJECT-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-POWERED-blue?style=for-the-badge"/>
-
-</p>
-
----
-
-## 📸 Preview
-
-> **Replace this image with your AutoVerse homepage/dashboard screenshot**
-
-<p align="center">
-
-<img src="YOUR_SCREENSHOT_LINK" width="100%">
-
-</p>
-
----
-
-# Why AutoVerse?
-
-Buying a vehicle online is often fragmented across multiple platforms, making it difficult to compare cars, estimate fair pricing, discover suitable recommendations, and evaluate vehicle conditions.
-
-**AutoVerse** brings these capabilities together into a unified AI-powered platform that helps users discover, compare, and evaluate vehicles through intelligent automation.
-
----
-
-# ✨ Core Capabilities
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Artificial Intelligence
+## 🚗 AutoVerse
+
+### AI-Powered Automotive Marketplace
+
+Production-ready marketplace combining Machine Learning,
+recommendation systems, computer vision and scalable backend APIs.
+
+<br>
+
+**Highlights**
 
 - AI Price Prediction
-- Smart Recommendations
+- Recommendation Engine
 - Vehicle Damage Detection
-- Intelligent Search
-
-</td>
-
-<td width="50%">
-
-### ⚙ Platform Features
-
-- Secure Authentication
-- Wishlist
-- User Profiles
+- JWT Authentication
 - Analytics Dashboard
 
+<br>
+
+**Built With**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+<br>
+
+**Status**
+
+🟢 Active Development
+
+<br>
+
+[📂 Repository](YOUR_AUTOVERSE_REPO_LINK)
+
 </td>
 
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-
-<td>
-
-### 🚘 Vehicle Experience
-
-- Browse Vehicles
-- Compare Cars
-- Book Test Drives
-- Explore Specifications
-
-</td>
-
-<td>
-
-### 🏗 Backend
-
-- REST APIs
-- PostgreSQL Database
-- FastAPI Architecture
-- JWT Authentication
+<img src="YOUR_AUTOVERSE_SCREENSHOT" width="100%">
 
 </td>
 
@@ -221,92 +177,205 @@ Buying a vehicle online is often fragmented across multiple platforms, making it
 
 ---
 
-# 🏛 Architecture Highlights
+<table>
 
-✔ Modular FastAPI Backend
+<tr>
 
-✔ RESTful API Design
+<td width="50%" valign="top">
 
-✔ PostgreSQL Database
+## 🏢 Commercial Property Management SaaS
 
-✔ SQLAlchemy ORM
+### Enterprise Client Project
 
-✔ JWT Authentication
+Designed and developed a scalable SaaS platform for
+commercial property owners to manage rental operations,
+tenants, agreements and administrative workflows.
 
-✔ Machine Learning Integration
+<br>
 
-✔ Streamlit Frontend
+**Highlights**
 
-✔ Scalable Project Structure
+- Tenant Management
+- Visitor Management
+- Digital Rent Collection
+- Invoice Generation
+- Maintenance Tickets
+- Admin Dashboard
 
----
+<br>
 
-# 🧠 AI Components
+**Built With**
 
-| Module | Purpose |
-|---------|----------|
-| 🚗 Price Prediction | Predicts vehicle prices using machine learning |
-| 🎯 Recommendation Engine | Suggests vehicles based on similarity and preferences |
-| 📷 Damage Detection | Detects vehicle damage using Deep Learning |
-| 📊 Analytics | Generates insights and visualizations |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+<br>
 
-# ⚒ Technology Stack
+**Repository**
 
-<p align="center">
+🔒 Private (Client Confidential)
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,tensorflow,git,github"/>
+</td>
 
-<br><br>
+<td width="50%" valign="middle" align="center">
 
-<img src="https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge"/>
+# 🔒
 
-<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge"/>
+### Enterprise Software
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+Repository unavailable due to client confidentiality.
 
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+Built for production deployment.
 
-</p>
+</td>
 
----
+</tr>
 
-# 📈 Engineering Focus
-
-<div align="center">
-
-| AI | Backend | Database | ML |
-|:---:|:---:|:---:|:---:|
-| ✅ | ✅ | ✅ | ✅ |
-
-</div>
+</table>
 
 ---
 
-# 🔗 Explore
+<table>
 
-<p align="center">
+<tr>
 
-<a href="YOUR_REPOSITORY_LINK">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+## 📄 PDF Mind
 
-</a>
+### Offline AI Document Assistant
 
-&nbsp;
+Private AI-powered document intelligence platform
+that allows users to chat with PDFs completely offline.
 
-<a href="YOUR_DEMO_LINK">
+<br>
 
-<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge"/>
+**Highlights**
 
-</a>
+- Local LLM
+- Semantic Search
+- Chat with PDFs
+- Privacy First
 
-</p>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
+
+<br>
+
+[📂 Repository](YOUR_PDFMIND_LINK)
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="YOUR_PDF_SCREENSHOT" width="100%">
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-<p align="center">
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📊 ResumeRank AI
+
+### AI Resume Intelligence Platform
+
+AI-powered resume analyzer providing ATS optimization
+and actionable resume feedback.
+
+<br>
+
+**Highlights**
+
+- ATS Analysis
+- AI Feedback
+- Resume Scoring
+- Keyword Optimization
+
+<br>
+
+**79+ Users**
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square)
+
+<br>
+
+[📂 Repository](YOUR_RESUMERANK_LINK)
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="YOUR_RESUMERANK_SCREENSHOT" width="100%">
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AdiX
+
+### Personal AI Assistant
+
+Self-hosted AI assistant focused on intelligent conversations,
+privacy, and extensibility.
+
+<br>
+
+**Highlights**
+
+- Gemini Integration
+- Modular Design
+- Secure Backend
+- Fast Responses
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+
+<br>
+
+[📂 Repository](YOUR_ADIX_LINK)
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="YOUR_ADIX_SCREENSHOT" width="100%">
+
+</td>
+
+</tr>
+
+</table>
 
 <i>
 Designed and developed to demonstrate how Artificial Intelligence can enhance the vehicle buying experience through intelligent recommendations, predictive analytics, and modern backend engineering.
