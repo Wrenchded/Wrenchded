@@ -551,42 +551,48 @@ Visualization
 
 
 <!-- ========================================================= -->
-<!--                     LET'S CONNECT                          -->
+<!--                  LET'S CONNECT                             -->
 <!-- ========================================================= -->
 
 <br>
 
-<h2 align="center">Let's Connect</h2>
+# Let's Connect
 
-<p align="center">
-I'm always open to discussing AI Engineering, Machine Learning, Backend Development, and exciting software projects.
-</p>
-
-<br>
+I'm always interested in discussing **AI, Machine Learning, Backend Engineering, Open Source, and building impactful software.**
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/aditya-sarmalkar-7b302a251">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="https://github.com/Wrenchded">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
+</p>
+
+---
+
+<p align="center">
+
+### Thanks for stopping by.
+
+I enjoy building software that solves meaningful problems through thoughtful engineering, intelligent systems, and scalable architecture.
 
 </p>
 
@@ -594,8 +600,6 @@ I'm always open to discussing AI Engineering, Machine Learning, Backend Developm
 
 <p align="center">
 
-<sub>
-Designed & Built by Aditya Sarmalkar
-</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
 
 </p>
