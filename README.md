@@ -201,7 +201,7 @@ AI-powered resume analyzer providing ATS optimization and actionable resume feed
 
 **Impact**
 
-🚀 Used by **79+ users**
+🚀 Used by **100+ users**
 
 **Built With**
 
