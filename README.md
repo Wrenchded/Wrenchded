@@ -547,6 +547,7 @@ Visualization
 ✓ Scalable Software Architecture
 
 ✓ Vector Databases
+```
 
 
 <!-- ========================================================= -->
