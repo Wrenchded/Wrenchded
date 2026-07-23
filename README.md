@@ -2,26 +2,11 @@
 <!--                     HERO SECTION                           -->
 <!-- ========================================================= -->
 
-<div align="center">
-
-# Aditya Sarmalkar
-
-### AI Engineer • Backend Developer • Data Science Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Software;Designing+Scalable+Backend+Systems;Machine+Learning+%7C+LLMs+%7C+FastAPI;Turning+Ideas+into+Production+Products" />
-
-<br>
-
-<p>
-
-Building intelligent software through Artificial Intelligence, Machine Learning,
-and scalable backend engineering.
-
-I enjoy transforming complex problems into elegant, production-ready solutions.
-
+<p align="center">
+  <img src="banner.png" width="100%" alt="Aditya Sarmalkar Banner">
 </p>
 
-</div>
+<br>
 
 ---
 
