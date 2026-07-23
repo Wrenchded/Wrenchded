@@ -1,144 +1,111 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnNocDhldTRqMmpoeDM5emFqdnhycml1dmwyMGY3bTVtazhkZWU3dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" height="160" />
-</div>
-
-<br/>
+<!-- ========================================================= -->
+<!--                     HERO SECTION                           -->
+<!-- ========================================================= -->
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aditya-sarmalkar-7b302a251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@adisvlogs4643" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://x.com/AdityaSarmalka2" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.pinterest.com/adityasarmalkar228/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-Explore-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
+
+# Aditya Sarmalkar
+
+### AI Engineer • Backend Developer • Data Science Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Software;Designing+Scalable+Backend+Systems;Machine+Learning+%7C+LLMs+%7C+FastAPI;Turning+Ideas+into+Production+Products" />
+
+<br>
+
+<p>
+
+Building intelligent software through Artificial Intelligence, Machine Learning,
+and scalable backend engineering.
+
+I enjoy transforming complex problems into elegant, production-ready solutions.
+
+</p>
+
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wrenchded.Wrenchded" />
+
+<a href="https://www.linkedin.com/in/aditya-sarmalkar-7b302a251">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Wrenchded">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-<h1 align="center">🚀 Hey, I'm Aditya Sarmalkar</h1>
-<h3 align="center">Building AI Products | Future Data Scientist | Founder Mindset 💼</h3>
+# 👋 About Me
+
+I'm a Software Engineer from **India** passionate about building
+real-world AI products and scalable backend systems.
+
+My interests lie at the intersection of
+
+- Artificial Intelligence
+- Backend Engineering
+- Machine Learning
+- Data Science
+- System Design
+
+I enjoy building software that solves practical problems rather than
+just experimenting with technology.
+
+Currently, I'm focused on designing AI-powered applications,
+production-grade APIs, and intelligent automation systems.
 
 ---
 
-## 🧠 About Me
+# 🚀 Current Focus
 
-- 🎓 Final Year IT Student from Pune, India 🇮🇳  
-- 🚀 Founder of **ResumeRank AI**  
-- 🧠 Passionate about **AI, Data Science & Real-World Problem Solving**  
-- 💡 Turning ideas into **scalable digital products**  
+```text
+✓ AI Engineering
 
----
+✓ LLM Applications
 
-## 🚀 Featured Projects
+✓ FastAPI Backend Development
 
-### 🔄 KIRAYA – *Hustle-Free Travel*
-> Smart digital bus card system inspired by Dubai’s NOL  
-✔ Balance Tracking  
-✔ Smart Alerts  
-✔ Paperless Ticketing  
-💡 *Mission: Simplify public transport payments*
+✓ Machine Learning Systems
 
----
+✓ Recommendation Engines
 
-### 🚘 AutoVerse – *AI Car Showroom*
-> Premium AI-powered car discovery platform  
-✔ Explore Supercars  
-✔ Book Test Drives  
-✔ Interactive UI (Streamlit)  
-💡 *Reinventing digital car buying experience*
+✓ Data Science
+
+✓ RAG Applications
+
+✓ Distributed Systems
+```
 
 ---
 
-### 📄 PDF Mind – *Chat with Documents*
-> AI-powered PDF assistant (Offline + Private)  
-✔ Natural Language Queries  
-✔ Ollama + NLP  
-✔ Fully Local Processing  
-💡 *Your personal document intelligence tool*
+# 💡 Engineering Philosophy
+
+> **"Great software isn't just built to work—it's built to solve meaningful problems, scale gracefully, and create lasting impact."**
 
 ---
 
-### 🧾 ResumeRank AI
-> AI Resume Analyzer  
-✔ Instant Feedback  
-✔ ATS Optimization  
-✔ Smart Suggestions  
-💡 *Outrank competition with data-driven insights*
+# 📍 Quick Facts
 
----
+🧠 AI Engineer & Backend Developer
 
-### 🤖 AdiX – Private AI Assistant
-> ChatGPT-style assistant (On-Premise)  
-✔ Gemini API Integration  
-✔ Secure + Fast  
-✔ Fully Customizable  
-💡 *Your own AI ecosystem*
+🎓 B.E. in Information Technology
 
----
+🌏 Based in India
 
-### 🚗 TOYOTA System (Legacy Project)
-> Java-based dealership management system  
-✔ Built in 12th Grade  
-✔ MySQL Integration  
-💡 *Where my journey started*
+🚀 Passionate about AI Products & SaaS
 
----
+💬 Always exploring better software architecture
 
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60"/>
-  &nbsp;
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wrenchded&theme=dark&hide_border=false" height="220" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wrenchded&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wrenchded&layout=compact&theme=dark&hide_border=true" height="165" />
-</p>
-
----
-
-## ☕ Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/wrenchded" target="_blank">
-    <img src="https://img.shields.io/badge/Buy Me A Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-
----
-
-## ⚡ Quote I Live By
-
-> "Build. Scale. Dominate." 🚀
+☕ Coffee-powered problem solver
