@@ -384,3 +384,166 @@ Designed and developed to demonstrate how Artificial Intelligence can enhance th
 </p>
 
 <br>
+
+<!-- ========================================================= -->
+<!--                  ENGINEERING STACK                         -->
+<!-- ========================================================= -->
+
+<br>
+
+# Engineering Stack
+
+The technologies and tools I use to design, build, and deploy intelligent software systems.
+
+---
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js"/>
+
+</p>
+
+---
+
+## Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
+
+</p>
+
+---
+
+## Artificial Intelligence & Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,supabase"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,streamlit"/>
+
+</p>
+
+---
+
+## Developer Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+
+</p>
+
+---
+
+# Engineering Interests
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+### AI
+
+Machine Learning
+
+Deep Learning
+
+LLMs
+
+RAG
+
+Agents
+
+</td>
+
+<td width="33%" align="center">
+
+### Backend
+
+FastAPI
+
+REST APIs
+
+Authentication
+
+Microservices
+
+System Design
+
+</td>
+
+<td width="33%" align="center">
+
+### Data
+
+PostgreSQL
+
+Analytics
+
+ETL
+
+Data Processing
+
+Visualization
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Currently Exploring
+
+```text
+✓ MLOps
+
+✓ Distributed Systems
+
+✓ AI Agents
+
+✓ Model Deployment
+
+✓ Cloud Infrastructure
+
+✓ High Performance APIs
+
+✓ Scalable Software Architecture
+
+✓ Vector Databases
