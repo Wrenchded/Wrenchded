@@ -34,7 +34,7 @@
 
 # 👋 About Me
 
-I'm a Software Engineer from **India** passionate about building
+I'm an IT Graduate from **India** passionate about building
 real-world AI products and scalable backend systems.
 
 My interests lie at the intersection of
