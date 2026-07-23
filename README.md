@@ -68,4 +68,44 @@ production-grade APIs, and intelligent automation systems.
 
 ---
 
+# 🚀 Current Focus
 
+```text
+✓ AI Engineering
+
+✓ LLM Applications
+
+✓ FastAPI Backend Development
+
+✓ Machine Learning Systems
+
+✓ Recommendation Engines
+
+✓ Data Science
+
+✓ RAG Applications
+
+✓ Distributed Systems
+```
+
+---
+
+# 💡 Engineering Philosophy
+
+> **"Great software isn't just built to work—it's built to solve meaningful problems, scale gracefully, and create lasting impact."**
+
+---
+
+# 📍 Quick Facts
+
+🧠 AI Engineer & Backend Developer
+
+🎓 B.E. in Information Technology
+
+🌏 Based in India
+
+🚀 Passionate about AI Products & SaaS
+
+💬 Always exploring better software architecture
+
+☕ Coffee-powered problem solver
