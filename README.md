@@ -103,22 +103,13 @@ production-grade APIs, and intelligent automation systems.
 
 A collection of AI products, backend systems, and software solutions I've designed and built to solve real-world problems.
 
-<br>
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
+---
 
 ## 🚗 AutoVerse
 
 ### AI-Powered Automotive Marketplace
 
-Production-ready marketplace combining Machine Learning,
-recommendation systems, computer vision and scalable backend APIs.
-
-<br>
+Production-ready marketplace combining Machine Learning, recommendation systems, computer vision, and scalable backend APIs.
 
 **Highlights**
 
@@ -128,8 +119,6 @@ recommendation systems, computer vision and scalable backend APIs.
 - JWT Authentication
 - Analytics Dashboard
 
-<br>
-
 **Built With**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -138,45 +127,21 @@ recommendation systems, computer vision and scalable backend APIs.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-<br>
-
 **Status**
 
 🟢 Active Development
 
-<br>
+**Repository**
 
-[📂 Repository](YOUR_AUTOVERSE_REPO_LINK)
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="YOUR_AUTOVERSE_SCREENSHOT" width="100%">
-
-</td>
-
-</tr>
-
-</table>
+[📂 View Repository](YOUR_AUTOVERSE_REPO_LINK)
 
 ---
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
 
 ## 🏢 Commercial Property Management SaaS
 
 ### Enterprise Client Project
 
-Designed and developed a scalable SaaS platform for
-commercial property owners to manage rental operations,
-tenants, agreements and administrative workflows.
-
-<br>
+Designed and developed a scalable SaaS platform for commercial property owners to manage rental operations, tenants, agreements, and administrative workflows.
 
 **Highlights**
 
@@ -187,56 +152,25 @@ tenants, agreements and administrative workflows.
 - Maintenance Tickets
 - Admin Dashboard
 
-<br>
-
 **Built With**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-
-<br>
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Repository**
 
-🔒 Private (Client Confidential)
-
-</td>
-
-<td width="50%" valign="middle" align="center">
-
-# 🔒
-
-### Enterprise Software
-
-Repository unavailable due to client confidentiality.
-
-Built for production deployment.
-
-</td>
-
-</tr>
-
-</table>
+🔒 Private Repository (Client Confidential)
 
 ---
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
 
 ## 📄 PDF Mind
 
 ### Offline AI Document Assistant
 
-Private AI-powered document intelligence platform
-that allows users to chat with PDFs completely offline.
-
-<br>
+Private AI-powered document intelligence platform that allows users to chat with PDFs completely offline.
 
 **Highlights**
 
@@ -245,44 +179,23 @@ that allows users to chat with PDFs completely offline.
 - Chat with PDFs
 - Privacy First
 
-<br>
+**Built With**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
 
-<br>
+**Repository**
 
-[📂 Repository](YOUR_PDFMIND_LINK)
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="YOUR_PDF_SCREENSHOT" width="100%">
-
-</td>
-
-</tr>
-
-</table>
+[📂 View Repository](YOUR_PDFMIND_LINK)
 
 ---
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
 
 ## 📊 ResumeRank AI
 
 ### AI Resume Intelligence Platform
 
-AI-powered resume analyzer providing ATS optimization
-and actionable resume feedback.
-
-<br>
+AI-powered resume analyzer providing ATS optimization and actionable resume feedback.
 
 **Highlights**
 
@@ -291,82 +204,43 @@ and actionable resume feedback.
 - Resume Scoring
 - Keyword Optimization
 
-<br>
+**Impact**
 
-**79+ Users**
+🚀 Used by **79+ users**
 
-<br>
+**Built With**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square)
 
-<br>
+**Repository**
 
-[📂 Repository](YOUR_RESUMERANK_LINK)
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="YOUR_RESUMERANK_SCREENSHOT" width="100%">
-
-</td>
-
-</tr>
-
-</table>
+[📂 View Repository](YOUR_RESUMERANK_LINK)
 
 ---
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
 
 ## 🤖 AdiX
 
 ### Personal AI Assistant
 
-Self-hosted AI assistant focused on intelligent conversations,
-privacy, and extensibility.
-
-<br>
+Self-hosted AI assistant focused on intelligent conversations, privacy, and extensibility.
 
 **Highlights**
 
-- Gemini Integration
-- Modular Design
+- Gemini API Integration
+- Modular Architecture
 - Secure Backend
 - Fast Responses
 
-<br>
+**Built With**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 
-<br>
+**Repository**
 
-[📂 Repository](YOUR_ADIX_LINK)
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="YOUR_ADIX_SCREENSHOT" width="100%">
-
-</td>
-
-</tr>
-
-</table>
-
-<i>
-Designed and developed to demonstrate how Artificial Intelligence can enhance the vehicle buying experience through intelligent recommendations, predictive analytics, and modern backend engineering.
-</i>
-
-</p>
+[📂 View Repository](YOUR_ADIX_LINK)
 
 <br>
 
