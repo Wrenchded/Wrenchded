@@ -87,13 +87,12 @@ production-grade APIs, and intelligent automation systems.
 
 🎓 B.E. in Information Technology
 
-🌏 Based in India
+🌏 Based in United Arab Emirates
 
 🚀 Passionate about AI Products & SaaS
 
 💬 Always exploring better software architecture
 
-☕ Coffee-powered problem solver
 
 <!-- ========================================================= -->
 <!--                    SELECTED WORK                           -->
